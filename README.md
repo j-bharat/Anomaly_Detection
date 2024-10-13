@@ -8,8 +8,7 @@
 5. [Setup](#setup)
 6. [Usage](#usage)
 7. [Results](#results)
-8. [Future Work](#future-work)
-9. [References](#references)
+8. [References](#references)
 
 ## Introduction
 
@@ -108,12 +107,6 @@ To run the application:
 
 The SDO-Stream algorithm effectively identifies anomalies in stock price movements, adapting to changing market conditions. Anomalies are visually highlighted on the real-time chart, providing immediate insights into unusual price behaviors.
 
-## Future Work
-
-1. Implement parameter tuning for optimal performance across different stocks.
-2. Integrate additional technical indicators for enhanced anomaly detection.
-3. Develop a backtesting framework to evaluate algorithm performance.
-4. Explore hybrid models combining SDO-Stream with other anomaly detection techniques.
 
 ## References
 
