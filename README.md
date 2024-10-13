@@ -65,7 +65,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/stock-anomaly-detection.git
+   git clone https://github.com/j-bharat/Anomaly_Detection.git
    cd stock-anomaly-detection
    ```
 
